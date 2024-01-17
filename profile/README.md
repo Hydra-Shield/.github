@@ -1,5 +1,5 @@
 <h1 align="center">Bonjour 👋, Nous somme Hydra-Shield</h1>
-<h3 align="center">Hydra-Shield est une entreprise de cyber sécurité, qui propose des services d'anti DDoS. Hydra-Shield est éditée par NETYMI SARL</h3>
+<h3 align="center">Hydra-Shield est une entreprise de cyber sécurité, qui propose des services d'anti DDoS.</h3>
 
 <p align="left"> <a href="https://twitter.com/hydra__shield" target="blank"><img src="https://img.shields.io/twitter/follow/hydra__shield?logo=twitter&style=for-the-badge" alt="hydra__shield" /></a> </p>
 
