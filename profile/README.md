@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/hydra__shield" target="blank"><img src="https://img.shields.io/twitter/follow/hydra__shield?logo=twitter&style=for-the-badge" alt="hydra__shield" /></a> </p>
 
-- 🔭Nous Recrutons **1 développeur Golang et un community manager**
-
 - 👨‍💻 Notre site web est : [https://hydra-shield.fr](https://hydra-shield.fr)
 
 - 📫 Vous pouvez nous contacter sur : **contact@hydra-shield.fr**
